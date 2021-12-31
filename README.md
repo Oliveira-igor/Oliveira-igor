@@ -1,4 +1,4 @@
-### Olá sou Igor de Oliveira 👋
+### Olá sou o Igor de Oliveira 👋
 
 
 - 🌱 Atualmente estou estudando Kotlin
