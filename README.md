@@ -3,6 +3,8 @@
 
 - 🌱 Atualmente estou estudando Kotlin
 
+<img src="https://github-readme-stats.vercel.app/api?username=Oliveira-igor&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+
 Você pode me alcançar por aqui ...<br>
 <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="mailto:oliveira.igor121@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
