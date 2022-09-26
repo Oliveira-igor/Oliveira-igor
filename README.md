@@ -1,7 +1,7 @@
 ### Olá sou Igor de Oliveira 👋
 
 
-- 🌱 Atualmente estou estudando Kotlin
+- 🌱 Atualmente estou estudando Kotlin 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Oliveira-igor&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 
